@@ -76,7 +76,7 @@ Analysis-SolidSolid-It6.odb
 Analysis-SolidSolid-It7.odb
 
 
-If you are using any of these files for further research or as reference materials, please include a citation for my thesis (found in citation.txt file). 
+If you are using any of these files for further research or as reference materials, please include a citation for my thesis (found in citation file). 
 
 
 ---
